@@ -1,5 +1,6 @@
-# Development tools, resources, services
+# Software development tools, resources, services
 
+* [Data management](https://github.com/gamtiq/dev-tools/blob/master/data.md)
 * [Web development](https://github.com/gamtiq/dev-tools/blob/master/web.md)
 
 ### See also
