@@ -2,6 +2,7 @@
 
 * [Data management](https://github.com/gamtiq/dev-tools/blob/master/data.md)
 * [Miscellaneous](https://github.com/gamtiq/dev-tools/blob/master/misc.md)
+* [Software design](https://github.com/gamtiq/dev-tools/blob/master/design.md)
 * [Web development](https://github.com/gamtiq/dev-tools/blob/master/web.md)
 
 ### See also
