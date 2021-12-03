@@ -3,6 +3,7 @@
 ### Table of contents <a name="toc"></a>
 * [Console, shell, terminal etc](#console)
 * [File manager](#file-manager)
+* [Rating](#rating)
 
 ### Console, shell, terminal etc <a name="console"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Cmder](https://cmder.net/) - a software package created out of pure frustration over absence of usable console emulator on Windows. It is based on [ConEmu](https://conemu.github.io/) with major config overhaul, comes with a Monokai color scheme, amazing [clink](https://github.com/mridgers/clink) (further enhanced by clink-completions) and a custom prompt layout.
@@ -17,3 +18,6 @@
 * [Multi Commander](http://multicommander.com/) - a multi-tabbed file manager and is an alternative to the standard Windows Explorer. It uses the very popular and efficient dual-panel layout. Multi Commander has everything you need in your daily work with files to increase your speed and efficiency.
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - an alternative file manager for Windows with a Quadro-View technique.
 * [xplorer²](https://www.zabkat.com/) - a desktop file manager combining the simplicity of windows explorer with the speed and efficiency of traditional dual pane orthodox file managers, helping you be productive with your documents, pictures, music, source code and other files.
+
+### Rating <a name="rating"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [TIOBE Programming Community index](https://www.tiobe.com/tiobe-index/) - an indicator of the popularity of programming languages.
