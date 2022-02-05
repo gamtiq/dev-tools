@@ -3,8 +3,9 @@
 ### Table of contents <a name="toc"></a>
 * [Console, shell, terminal etc](#console)
 * [File manager](#file-manager)
-* [Package manager](#package-manager)
+* [Package/software manager](#package-manager)
 * [Rating](#rating)
+* [Utility](#util)
 
 ### Console, shell, terminal etc <a name="console"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Cmder](https://cmder.net/) - a software package created out of pure frustration over absence of usable console emulator on Windows. It is based on [ConEmu](https://conemu.github.io/) with major config overhaul, comes with a Monokai color scheme, amazing [clink](https://github.com/mridgers/clink) (further enhanced by clink-completions) and a custom prompt layout.
@@ -20,8 +21,12 @@
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - an alternative file manager for Windows with a Quadro-View technique.
 * [xplorer²](https://www.zabkat.com/) - a desktop file manager combining the simplicity of windows explorer with the speed and efficiency of traditional dual pane orthodox file managers, helping you be productive with your documents, pictures, music, source code and other files.
 
-### Package manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Package/software manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Homebrew](https://brew.sh/) - the missing package manager for macOS (or Linux).
 * [SDKMAN!](https://sdkman.io/) - a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates.
 
 ### Rating <a name="rating"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [TIOBE Programming Community index](https://www.tiobe.com/tiobe-index/) - an indicator of the popularity of programming languages.
+
+### Utility <a name="util"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [DevToys](https://devtoys.app/) - Swiss Army knife for developers. An offline Windows app that helps developers in daily tasks.
