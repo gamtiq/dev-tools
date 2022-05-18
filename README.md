@@ -1,5 +1,6 @@
 # Software development tools, resources, services
 
+* [Compiler, decompiler](https://github.com/gamtiq/dev-tools/blob/master/compiler.md)
 * [Data management](https://github.com/gamtiq/dev-tools/blob/master/data.md)
 * [Miscellaneous](https://github.com/gamtiq/dev-tools/blob/master/misc.md)
 * [Software design](https://github.com/gamtiq/dev-tools/blob/master/design.md)
