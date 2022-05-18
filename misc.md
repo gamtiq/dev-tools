@@ -1,11 +1,16 @@
 # Various tools, resources and services helpful in software development
 
 ### Table of contents <a name="toc"></a>
+* [Code instrumentation](#code-instrument)
 * [Console, shell, terminal etc](#console)
 * [File manager](#file-manager)
 * [Package/software manager](#package-manager)
 * [Rating](#rating)
 * [Utility](#util)
+
+### Code instrumentation <a name="code-instrument"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+
+* [Frida](https://frida.re/) - dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 ### Console, shell, terminal etc <a name="console"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Cmder](https://cmder.net/) - a software package created out of pure frustration over absence of usable console emulator on Windows. It is based on [ConEmu](https://conemu.github.io/) with major config overhaul, comes with a Monokai color scheme, amazing [clink](https://github.com/mridgers/clink) (further enhanced by clink-completions) and a custom prompt layout.
