@@ -16,6 +16,7 @@
 * [Cmder](https://cmder.net/) - a software package created out of pure frustration over absence of usable console emulator on Windows. It is based on [ConEmu](https://conemu.github.io/) with major config overhaul, comes with a Monokai color scheme, amazing [clink](https://github.com/mridgers/clink) (further enhanced by clink-completions) and a custom prompt layout.
 * [Console2](https://sourceforge.net/projects/console/) - a Windows console window enhancement. Console features include: multiple tabs, text editor-like text selection, different background types, alpha and color-key transparency, configurable font, different window styles.
 * [ConsoleZ](https://github.com/cbucher/console) - a modified version of Console2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
+* [Hyper](https://hyper.is/) - a terminal built on web technologies.
 * [iTerm2](https://www.iterm2.com/) - a terminal emulator for macOS that does amazing things.
 
 ### File manager <a name="file-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
