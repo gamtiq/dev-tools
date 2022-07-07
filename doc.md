@@ -1,0 +1,9 @@
+# Documentation in any form - guides, references, practices, recipes
+
+### Table of contents <a name="toc"></a>
+
+* [Reference](#reference)
+
+### Reference <a name="reference"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - jargon from the functional programming world in simple terms.
