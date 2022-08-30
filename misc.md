@@ -7,6 +7,7 @@
 * [Package/software manager](#package-manager)
 * [Rating](#rating)
 * [Utility](#util)
+    - [Command line utility](#cl-util)
 
 ### Code instrumentation <a name="code-instrument"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
@@ -36,3 +37,7 @@
 
 ### Utility <a name="util"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [DevToys](https://devtoys.app/) - Swiss Army knife for developers. An offline Windows app that helps developers in daily tasks.
+* Command line utility <a name="cl-util"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [bat](https://github.com/sharkdp/bat) - a `cat(1)` clone with syntax highlighting and Git integration.
+    - [cheat](https://github.com/cheat/cheat) - allows you to create and view interactive cheatsheets on the command-line.
+    - [delta](https://github.com/dandavison/delta) - a syntax-highlighting pager for git, diff, and grep output.
