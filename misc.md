@@ -41,3 +41,5 @@
     - [bat](https://github.com/sharkdp/bat) - a `cat(1)` clone with syntax highlighting and Git integration.
     - [cheat](https://github.com/cheat/cheat) - allows you to create and view interactive cheatsheets on the command-line.
     - [delta](https://github.com/dandavison/delta) - a syntax-highlighting pager for git, diff, and grep output.
+    - [jid](https://github.com/simeji/jid) - json incremental digger. You can drill down JSON interactively by using filtering queries like [jq](https://stedolan.github.io/jq/).
+    - [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
