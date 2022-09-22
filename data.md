@@ -4,6 +4,7 @@
 * [Tools catalog / search / discovery / comparison service](#tool-search)
 * [Database](#database)
     - [Embedded database](#embedded-db)
+* [Data processing](#data-processing)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Database of Databases](https://dbdb.io/) - discover and learn about database management systems.
@@ -28,3 +29,8 @@
     - [ObjectBox](https://objectbox.io/) - an embedded, object-oriented database for Mobile Apps and IoT.
     - [Perst](https://www.mcobject.com/perst/) - open source, dual license, object-oriented embedded database system. It is available in one edition developed as an all-Java embedded database, and another implemented in C# (for Microsoft .NET Framework applications).
     - [Realm Mobile Database](https://www.mongodb.com/realm/mobile/database) - an open-source and object-oriented DBMS designed for the mobile devices.
+
+### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Danfo.js](https://danfo.jsdata.org/) - an open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
+* [pandas](https://pandas.pydata.org/) - a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
