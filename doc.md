@@ -8,6 +8,8 @@
 ### Cheatsheet <a name="cheatsheet"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
 * [CheatSheets](https://github.com/devmount/CheatSheets) - cheatsheets and tutorials for some of the top languages, frameworks and tools.
+* [Code House](https://codehouse.vercel.app/) - the all in one storehouse for developer cheatsheets.
+* [Quick Reference](https://quickref.me/) - a collection of cheatsheets contributed by open source angels. It shares a quick reference cheat sheet for developers in a nice layout.
 
 ### Reference <a name="reference"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
