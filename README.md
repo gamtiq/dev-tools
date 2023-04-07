@@ -6,6 +6,7 @@
 * [Documentation in any form - guides, references, practices, recipes](https://github.com/gamtiq/dev-tools/blob/master/doc.md)
 * [Miscellaneous](https://github.com/gamtiq/dev-tools/blob/master/misc.md)
 * [Software design](https://github.com/gamtiq/dev-tools/blob/master/design.md)
+* [Tools search](https://github.com/gamtiq/dev-tools/blob/master/search.md)
 * [Web development](https://github.com/gamtiq/dev-tools/blob/master/web.md)
 
 ### See also
