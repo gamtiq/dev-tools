@@ -7,6 +7,7 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 * [Cloud CMS or site builder](#cloud-cms)
 * [Headless CMS](#headless-cms)
 * [Static site CMS](#static-cms)
+* [Web server](#web-server)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CloudCms.ru](https://www.cloudcms.ru/) (on Russian) - list of cloud CMS and services for online shops and payments.
@@ -29,3 +30,6 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 ### Static site CMS <a name="static-cms"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Hokus](https://www.hokuscms.com/) - open source CMS for Hugo static websites.
 * [Publii](https://getpublii.com/) - a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+
+### Web server <a name="web-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Caddy](https://caddyserver.com/) - a powerful, enterprise-ready, open source web server with automatic HTTPS.
