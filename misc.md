@@ -4,6 +4,7 @@
 * [Code instrumentation](#code-instrument)
 * [Console, shell, terminal etc](#console)
 * [File manager](#file-manager)
+* [Network](#net)
 * [Package/software manager](#package-manager)
 * [Rating](#rating)
 * [Utility](#util)
@@ -27,6 +28,10 @@
 * [Multi Commander](http://multicommander.com/) - a multi-tabbed file manager and is an alternative to the standard Windows Explorer. It uses the very popular and efficient dual-panel layout. Multi Commander has everything you need in your daily work with files to increase your speed and efficiency.
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - an alternative file manager for Windows with a Quadro-View technique.
 * [xplorer²](https://www.zabkat.com/) - a desktop file manager combining the simplicity of windows explorer with the speed and efficiency of traditional dual pane orthodox file managers, helping you be productive with your documents, pictures, music, source code and other files.
+
+### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Wireshark](https://www.wireshark.org/) - the world's most popular network protocol analyzer.
+* [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) - the world’s most widely used web app scanner. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It's also a great tool for experienced pentesters to use for manual security testing.
 
 ### Package/software manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Homebrew](https://brew.sh/) - the missing package manager for macOS (or Linux).
