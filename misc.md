@@ -34,6 +34,7 @@
 * [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) - the world’s most widely used web app scanner. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It's also a great tool for experienced pentesters to use for manual security testing.
 
 ### Package/software manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [asdf](https://asdf-vm.com/) - a CLI tool that can manage multiple language runtime versions on a per-project basis. It is like `gvm`, `nvm`, `rbenv` & `pyenv` (and more) all in one.
 * [Homebrew](https://brew.sh/) - the missing package manager for macOS (or Linux).
 * [SDKMAN!](https://sdkman.io/) - a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates.
 
