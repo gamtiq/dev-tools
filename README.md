@@ -1,5 +1,6 @@
 # Software development tools, resources, services
 
+* [Communication, collaboration](https://github.com/gamtiq/dev-tools/blob/master/communication.md)
 * [Compiler, decompiler](https://github.com/gamtiq/dev-tools/blob/master/compiler.md)
 * [Data management](https://github.com/gamtiq/dev-tools/blob/master/data.md)
 * [Development environment](https://github.com/gamtiq/dev-tools/blob/master/env.md)
