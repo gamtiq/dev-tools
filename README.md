@@ -2,6 +2,7 @@
 
 * [Communication, collaboration](https://github.com/gamtiq/dev-tools/blob/master/communication.md)
 * [Compiler, decompiler](https://github.com/gamtiq/dev-tools/blob/master/compiler.md)
+* [Cross-platform development](https://github.com/gamtiq/dev-tools/blob/master/cross-platform.md)
 * [Data management](https://github.com/gamtiq/dev-tools/blob/master/data.md)
 * [Debugging](https://github.com/gamtiq/dev-tools/blob/master/debug.md)
 * [Development environment](https://github.com/gamtiq/dev-tools/blob/master/env.md)
