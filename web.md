@@ -4,6 +4,7 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 
 #### Table of contents <a name="toc"></a>
 * [Tools catalog / search / discovery / comparison service](#tool-search)
+* [API development](#api-dev)
 * [Cloud CMS or site builder](#cloud-cms)
 * [Headless CMS](#headless-cms)
 * [Static site CMS](#static-cms)
@@ -15,6 +16,9 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 * [StaticGen](https://www.staticgen.com/) - a leaderboard of the top open-source static site generators.
 * [Static Site Generators](https://staticsitegenerators.net/) - the definitive listing of Static Site Generators.
 * [The New Dynamic](https://www.tnd.dev/) - resources to work with static site generators and the JAMstack, to build fast and secure modern websites.
+
+### API development <a name="api-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Bruno](https://www.usebruno.com/) - opensource IDE for exploring and testing APIs.
 
 ### Cloud CMS or site builder <a name="cloud-cms"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [1С-UMI](https://umi.ru/) (on Russian) - бесплатный облачный сервис готовых сайтов для бизнеса.
