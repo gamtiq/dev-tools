@@ -1,9 +1,10 @@
-# Documentation in any form - guides, references, practices, recipes
+# Documentation in any form - guides, references, practices, recipes, news
 
-### Table of contents <a name="toc"></a>
+#### Table of contents <a name="toc"></a>
 
 * [Cheatsheet](#cheatsheet)
 * [Reference](#reference)
+* [News, digest](#news)
 
 ### Cheatsheet <a name="cheatsheet"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
@@ -18,3 +19,7 @@
 * [The Algorithms](https://the-algorithms.com/) ([GitHub repo](https://github.com/TheAlgorithms)) - open source resource for learning data structures & algorithms and their implementation in any programming language.
 * [WhatIsMyBrowser, User Agents](https://developers.whatismybrowser.com/useragents/explore/) - a huge collection of different user agents.
 * [YesViz](https://yesviz.com/) - a significant list of screen sizes, viewport sizes, css media queries and resolution for all kind of devices including phones, tablets, smart watches and laptops.
+
+### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+
+* [Console newsletter](https://console.dev/) - a free weekly email digest of the best tools for developers.
