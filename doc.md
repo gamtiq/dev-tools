@@ -5,6 +5,9 @@
 * [Cheatsheet](#cheatsheet)
 * [Reference](#reference)
 * [News, digest](#news)
+* [Documentation by language](#bylang)
+    - [Objective-C](#obj-c)
+
 
 ### Cheatsheet <a name="cheatsheet"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
@@ -23,3 +26,10 @@
 ### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
 * [Console newsletter](https://console.dev/) - a free weekly email digest of the best tools for developers.
+
+### Documentation by language <a name="bylang"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+
+* Objective-C <a name="obj-c"></a>
+    - [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+    - [Objective-C for the iPhone and iPad](https://dzone.com/refcardz/objective-c-iphone-and-ipad)
+    - [Objective-C Quick Guide](https://www.tutorialspoint.com/objective_c/objective_c_quick_guide.htm)
