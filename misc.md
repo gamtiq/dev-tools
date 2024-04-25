@@ -1,7 +1,6 @@
 # Various tools, resources and services helpful in software development
 
 ### Table of contents <a name="toc"></a>
-* [AI assistant](#ai-assist)
 * [Code instrumentation](#code-instrument)
 * [Console, shell, terminal etc](#console)
 * [File manager](#file-manager)
@@ -10,10 +9,6 @@
 * [Rating](#rating)
 * [Utility](#util)
     - [Command line utility](#cl-util)
-
-### AI assistant <a name="ai-assist"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-
-* [CodeGeeX](https://codegeex.cn/) - powerful AI assistant for developers.
 
 ### Code instrumentation <a name="code-instrument"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
