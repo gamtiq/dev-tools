@@ -3,6 +3,7 @@
 #### Table of contents <a name="toc"></a>
 * [Guide, reference, practices, recipes](#guide)
 * [Modeling tool](#modeling)
+* [UI design](#ui)
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems.
@@ -21,3 +22,6 @@
 * [UModel](https://www.altova.com/umodel) - a UML tool that makes visual software design practical for any project.
 * [Umple](https://umple.org/) - a modeling tool and programming language family to enable what we call Model-Oriented Programming.
 * [Visual Paradigm](https://www.visual-paradigm.com/) - provides tools that support enterprise architecture and digital transformation.
+
+### UI design <a name="ui"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Penpot](https://penpot.app/) - the open-source design tool for design and code collaboration.
