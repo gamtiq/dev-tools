@@ -30,6 +30,7 @@
 * [xplorer²](https://www.zabkat.com/) - a desktop file manager combining the simplicity of windows explorer with the speed and efficiency of traditional dual pane orthodox file managers, helping you be productive with your documents, pictures, music, source code and other files.
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Hurl](https://hurl.dev/) - a command line tool that runs HTTP requests defined in a simple plain text format.
 * [Wireshark](https://www.wireshark.org/) - the world's most popular network protocol analyzer.
 * [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) - the world’s most widely used web app scanner. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It's also a great tool for experienced pentesters to use for manual security testing.
 
