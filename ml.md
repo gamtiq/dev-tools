@@ -7,6 +7,7 @@
 ### AI assistant <a name="ai-assist"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
 * [CodeGeeX](https://codegeex.cn/) - powerful AI assistant for developers.
+* [Copilot Chat](https://copilot-chat.com/) - code generation with Test-Driven Development.
 
 ### Large language model tools <a name="llm"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
