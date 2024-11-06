@@ -9,6 +9,7 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 * [Headless CMS](#headless-cms)
 * [Static site CMS](#static-cms)
 * [Web server](#web-server)
+* [Useful resources](#resources)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CloudCms.ru](https://www.cloudcms.ru/) (on Russian) - list of cloud CMS and services for online shops and payments.
@@ -37,3 +38,6 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 
 ### Web server <a name="web-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Caddy](https://caddyserver.com/) - a powerful, enterprise-ready, open source web server with automatic HTTPS.
+
+### Useful resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders.
