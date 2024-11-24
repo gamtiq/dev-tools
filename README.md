@@ -9,6 +9,7 @@
 * [Development environment](https://github.com/gamtiq/dev-tools/blob/master/env.md)
 * [Documentation in any form - guides, references, practices, recipes](https://github.com/gamtiq/dev-tools/blob/master/doc.md)
 * [Miscellaneous](https://github.com/gamtiq/dev-tools/blob/master/misc.md)
+* [Security](https://github.com/gamtiq/dev-tools/blob/master/security.md)
 * [Software design](https://github.com/gamtiq/dev-tools/blob/master/design.md)
 * [Tools search](https://github.com/gamtiq/dev-tools/blob/master/search.md)
 * [Web development](https://github.com/gamtiq/dev-tools/blob/master/web.md)
@@ -17,4 +18,3 @@
 * [awesome](https://awesome.re/) - a curated list of awesome lists.
 * [Best of JavaScript](https://bestofjs.org/) - a curated list of open-source projects related to the web platform and Node.js.
 * [Front-end development tools](https://github.com/gamtiq/frontend-tools) - links to front-end development tools (mostly).
-
