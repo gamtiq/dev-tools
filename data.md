@@ -4,6 +4,7 @@
 * [Tools catalog / search / discovery / comparison service](#tool-search)
 * [Database](#database)
     - [Embedded database](#embedded-db)
+* [Database tools](#db-tools)
 * [Data processing](#data-processing)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -29,6 +30,9 @@
     - [ObjectBox](https://objectbox.io/) - an embedded, object-oriented database for Mobile Apps and IoT.
     - [Perst](https://www.mcobject.com/perst/) - open source, dual license, object-oriented embedded database system. It is available in one edition developed as an all-Java embedded database, and another implemented in C# (for Microsoft .NET Framework applications).
     - [Realm Mobile Database](https://www.mongodb.com/realm/mobile/database) - an open-source and object-oriented DBMS designed for the mobile devices.
+
+### Database tools <a name="db-tools"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [SQLiteStudio](https://sqlitestudio.pl/) ([Github repo](https://github.com/pawelsalawa/sqlitestudio)) - a free, open source, multi-platform SQLite database manager.
 
 ### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CUE](https://cuelang.org/) - an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, ...
