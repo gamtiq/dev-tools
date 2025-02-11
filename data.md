@@ -37,5 +37,5 @@
 ### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CUE](https://cuelang.org/) - an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, ...
 * [Danfo.js](https://danfo.jsdata.org/) - an open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
-* [pandas](https://pandas.pydata.org/) - a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
-built on top of the Python programming language.
+* [pandas](https://pandas.pydata.org/) - a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+* [RBQL - Rainbow Query Language](https://rbql.org/) - a technology that provides SQL-like language for data-transformation and data-analysis queries for structured data (e.g. CSV files, log files, Python lists, JS arrays).
