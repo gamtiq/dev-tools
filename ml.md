@@ -8,6 +8,7 @@
 
 * [CodeGeeX](https://codegeex.cn/) - powerful AI assistant for developers.
 * [Copilot Chat](https://copilot-chat.com/) - code generation with Test-Driven Development.
+* [Goose](https://block.github.io/goose/) - an open source AI agent that supercharges your software development by automating coding tasks.
 
 ### Large language model tools <a name="llm"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
