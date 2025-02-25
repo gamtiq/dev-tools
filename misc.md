@@ -45,6 +45,7 @@
 
 ### Utility <a name="util"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [DevToys](https://devtoys.app/) - Swiss Army knife for developers. An offline Windows app that helps developers in daily tasks.
+* [Dev Utilities](https://jam.dev/utilities) - open-source data conversion utils for devs who don't like ads. Simple, lightweight and client-side so your data stays on-device.
 * Command line utility <a name="cl-util"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [bat](https://github.com/sharkdp/bat) - a `cat(1)` clone with syntax highlighting and Git integration.
     - [cheat](https://github.com/cheat/cheat) - allows you to create and view interactive cheatsheets on the command-line.
