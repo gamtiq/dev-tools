@@ -37,5 +37,9 @@
 ### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CUE](https://cuelang.org/) - an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, ...
 * [Danfo.js](https://danfo.jsdata.org/) - an open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
+* [Dasel](https://github.com/TomWright/dasel) (short for data-selector) - allows you to query and modify data structures using selector strings.
+* [Miller](https://github.com/johnkerl/miller) - a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines.
 * [pandas](https://pandas.pydata.org/) - a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+* [Polars](https://pola.rs/) - an open-source library and tools for data manipulation, known for being one of the fastest data processing solutions on a single machine.
+    - [polars-cli](https://github.com/pola-rs/polars-cli) - CLI interface for running SQL queries with Polars as backend.
 * [RBQL - Rainbow Query Language](https://rbql.org/) - a technology that provides SQL-like language for data-transformation and data-analysis queries for structured data (e.g. CSV files, log files, Python lists, JS arrays).
