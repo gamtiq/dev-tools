@@ -16,6 +16,7 @@
 ### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [ArangoDB](https://www.arangodb.com/) - a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 * [BangDB](https://bangdb.com/) - a multiflavored, multimodel, embedded, distributed, high performance, analytical, timeseries NoSql database written in C/C++ and design from scratch for solving contemporary and future problems in simple and easy manner which otherwise requires huge amount of time and resources.
+* [DuckDB](https://duckdb.org/) - a high-performance analytical database system. It is designed to be fast, reliable, portable, and easy to use. DuckDB provides a rich SQL dialect.
 * [Firebird](https://firebirdsql.org/) - a relational database offering many ANSI SQL standard features that runs on Linux, Windows, and a variety of Unix platforms. Firebird offers excellent concurrency, high performance, and powerful language support for stored procedures and triggers.
 * [ForerunnerDB](http://www.forerunnerdb.com/) - a NoSQL JavaScript JSON database with a query language based on MongoDB (with some differences) and runs on browsers and Node.js.
 * [H2](http://www.h2database.com/) - Java SQL database. Embedded and server modes; in-memory database.
