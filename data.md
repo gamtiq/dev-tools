@@ -35,6 +35,7 @@
     - [Realm Mobile Database](https://www.mongodb.com/realm/mobile/database) - an open-source and object-oriented DBMS designed for the mobile devices.
 
 ### Database tools <a name="db-tools"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [qStudio](https://www.timestored.com/qstudio/) - a free SQL client and notebook that lets you browse tables, run SQL scripts, and chart and export the results.
 * [SQLiteStudio](https://sqlitestudio.pl/) ([Github repo](https://github.com/pawelsalawa/sqlitestudio)) - a free, open source, multi-platform SQLite database manager.
 
 ### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -50,7 +51,9 @@
     - [Arquero](https://idl.uw.edu/arquero/) - a JavaScript library for query processing and transformation of array-backed data tables.
     - [Danfo.js](https://danfo.jsdata.org/) - an open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
     - [Simple data analysis (SDA)](https://github.com/nshiab/simple-data-analysis) - an easy-to-use and high-performance JavaScript library for data analysis. Works with tabular and geospatial data.
+    - [SQLRooms](https://sqlrooms.org/) - a comprehensive framework for building powerful data analytics applications that run entirely in the browser. It combines DuckDB's SQL capabilities with React to create interactive, client-side analytics tools without requiring a backend.
 * #### Python <a name="data-processing-python"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Amphi](https://amphi.ai/) - visual data transformation powered by Python. Designed for data preparation, reporting, and ETL.
     - [Ibis](https://ibis-project.org/) - the portable Python dataframe library.
     - [pandas](https://pandas.pydata.org/) - a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+    - [PyGWalker](https://kanaries.net/pygwalker) - a python library for exploratory data analysis with visualization.
