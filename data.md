@@ -39,6 +39,7 @@
 * [SQLiteStudio](https://sqlitestudio.pl/) ([Github repo](https://github.com/pawelsalawa/sqlitestudio)) - a free, open source, multi-platform SQLite database manager.
 
 ### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Apache Zeppelin](https://zeppelin.apache.org/) - web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala, Python, R and more.
 * [CUE](https://cuelang.org/) - an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, ...
 * [Dasel](https://github.com/TomWright/dasel) (short for data-selector) - allows you to query and modify data structures using selector strings.
 * [Huey](https://github.com/rpbouman/huey) - a browser-based application that lets you explore and analyze data. Huey supports reading from multiple file formats, like .csv, .parquet, .json data files as well as .duckdb database files.
