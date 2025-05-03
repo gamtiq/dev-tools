@@ -48,6 +48,7 @@
 * [Polars](https://pola.rs/) - an open-source library and tools for data manipulation, known for being one of the fastest data processing solutions on a single machine.
     - [polars-cli](https://github.com/pola-rs/polars-cli) - CLI interface for running SQL queries with Polars as backend.
 * [RBQL - Rainbow Query Language](https://rbql.org/) - a technology that provides SQL-like language for data-transformation and data-analysis queries for structured data (e.g. CSV files, log files, Python lists, JS arrays).
+* [Spyder](https://www.spyder-ide.org) - a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts.
 * #### JavaScript <a name="data-processing-js"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Arquero](https://idl.uw.edu/arquero/) - a JavaScript library for query processing and transformation of array-backed data tables.
     - [Danfo.js](https://danfo.jsdata.org/) - an open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
