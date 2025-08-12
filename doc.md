@@ -3,6 +3,7 @@
 #### Table of contents <a name="toc"></a>
 
 * [Cheatsheet](#cheatsheet)
+* [Guide](#guide)
 * [Reference](#reference)
 * [News, digest](#news)
 * [Documentation by language](#bylang)
@@ -15,6 +16,10 @@
 * [Code House](https://codehouse.vercel.app/) - the all in one storehouse for developer cheatsheets.
 * [Quick Reference](https://quickref.me/) - a collection of cheatsheets contributed by open source angels. It shares a quick reference cheat sheet for developers in a nice layout.
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+
+### Guide <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
 ### Reference <a name="reference"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
