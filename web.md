@@ -41,3 +41,4 @@ See also [Front-end development tools](https://github.com/gamtiq/frontend-tools)
 
 ### Useful resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders.
+* [User-Agents.Net](https://user-agents.net/) - provides various user agent lists and technical information about them.
