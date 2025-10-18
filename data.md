@@ -5,6 +5,7 @@
 * [Database](#database)
     - [Embedded database](#embedded-db)
 * [Database tools](#db-tools)
+* [Data platform](#data-platform)
 * [Data processing](#data-processing)
     - [JavaScript](#data-processing-js)
     - [Python](#data-processing-python)
@@ -26,6 +27,7 @@
 * [PostgreSQL](https://www.postgresql.org/) - a powerful, open source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.
 * [RxDB](https://rxdb.info/) - a realtime database for JavaScript applications. RxDB (short for Reactive Database) is a NoSQL-database for JavaScript applications like websites, hybrid apps, Electron-apps, Progressive Web Apps and NodeJs. Reactive means that you can not only query the current state, but subscribe to all state changes like the result of a query or even a single field of a document.
 * [SQLite](https://www.sqlite.org/) - a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+* [YDB](https://ydb.tech/) - an AI-powered Distributed SQL DBMS that unifies transactional, analytical, federated, and streaming workloads, delivers strict consistency and high availability, and brings AI capabilities directly to developers.
 * #### Embedded database <a name="embedded-db"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Berkeley DB](https://www.oracle.com/database/technologies/related/berkeleydb.html) - a family of embedded key-value database libraries providing scalable high-performance data management services to applications. The Berkeley DB products use simple function-call APIs for data access and management. Berkeley DB provides a collection of well-proven building-block technologies that can be configured to address any application need from the hand-held device to the data center, from a local storage solution to a world-wide distributed one, from kilobytes to petabytes.
     - [EJDB2](https://ejdb.org/) - embeddable JSON database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings.
@@ -37,6 +39,9 @@
 ### Database tools <a name="db-tools"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [qStudio](https://www.timestored.com/qstudio/) - a free SQL client and notebook that lets you browse tables, run SQL scripts, and chart and export the results.
 * [SQLiteStudio](https://sqlitestudio.pl/) ([Github repo](https://github.com/pawelsalawa/sqlitestudio)) - a free, open source, multi-platform SQLite database manager.
+
+### Data platform <a name="data-platform"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [YTsaurus](https://ytsaurus.tech/) - a distributed storage and processing platform for large amounts of data. It includes MapReduce computation model, a distributed file system and a NoSQL key-value storage.
 
 ### Data processing <a name="data-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Apache Spark](https://spark.apache.org/) - a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
