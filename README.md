@@ -8,6 +8,7 @@
 * [Debugging](https://github.com/gamtiq/dev-tools/blob/master/debug.md)
 * [Development environment](https://github.com/gamtiq/dev-tools/blob/master/env.md)
 * [Documentation in any form - guides, references, practices, recipes](https://github.com/gamtiq/dev-tools/blob/master/doc.md)
+* [Graphics and images processing](https://github.com/gamtiq/dev-tools/blob/master/graphics.md)
 * [Miscellaneous](https://github.com/gamtiq/dev-tools/blob/master/misc.md)
 * [Security](https://github.com/gamtiq/dev-tools/blob/master/security.md)
 * [Software design](https://github.com/gamtiq/dev-tools/blob/master/design.md)
