@@ -55,3 +55,4 @@
     - [jid](https://github.com/simeji/jid) - json incremental digger. You can drill down JSON interactively by using filtering queries like [jq](https://stedolan.github.io/jq/).
     - [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
     - [sad](https://github.com/ms-jpq/sad) - CLI search and replace. It will show you a really nice diff of proposed changes before you commit them.
+    - [snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections.
