@@ -49,6 +49,7 @@
 * [CUE](https://cuelang.org/) - an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, ...
 * [Dasel](https://github.com/TomWright/dasel) (short for data-selector) - allows you to query and modify data structures using selector strings.
 * [Huey](https://github.com/rpbouman/huey) - a browser-based application that lets you explore and analyze data. Huey supports reading from multiple file formats, like .csv, .parquet, .json data files as well as .duckdb database files.
+* [Jsonnet](https://jsonnet.org/) ([GitHub repo](https://github.com/google/jsonnet)) - the data templating language.
 * [Malloy](https://www.malloydata.dev/) - a modern open source language for analyzing, transforming, and modeling data.
 * [Metabase](https://www.metabase.com/) - the easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data.
 * [Miller](https://github.com/johnkerl/miller) - a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines.
