@@ -5,6 +5,7 @@
 * [Console, shell, terminal etc](#console)
 * [File manager](#file-manager)
 * [Network](#net)
+* [IP calculator](#ipcalc)
 * [Package/software manager](#package-manager)
 * [Rating](#rating)
 * [Utility](#util)
@@ -34,6 +35,11 @@
 * [Sniffnet](https://sniffnet.net/) - a network monitoring tool to help you easily keep track of your Internet traffic.
 * [Wireshark](https://www.wireshark.org/) - the world's most popular network protocol analyzer.
 * [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) - the world’s most widely used web app scanner. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It's also a great tool for experienced pentesters to use for manual security testing.
+
+### IP calculator <a name="ipcalc"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [IP Calculator](https://jodies.de/ipcalc) - takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
+* [IP Subnet Calculator](https://www.iptp.net/iptp-tools/ip-calculator/) - uses network class, IP address, and subnet mask to calculate and return a list of data regarding IPv4 and IPv6 subnets.
+* [Online IP Subnet Calculator](https://subnets.ru/wrapper.php?p=3) (Russian)
 
 ### Package/software manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [asdf](https://asdf-vm.com/) - a CLI tool that can manage multiple language runtime versions on a per-project basis. It is like `gvm`, `nvm`, `rbenv` & `pyenv` (and more) all in one.
